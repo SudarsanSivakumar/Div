@@ -1,0 +1,19 @@
+.chapter-container {
+    border: 1px solid crimson;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .chapter-container h2 {
+    margin-top: 0;
+  }
+  
+  .chapter-container h3 {
+    margin: 0;
+  }
+  
+  .chapter-container a {
+    text-decoration: none;
+    color: black;
+  }
+  
